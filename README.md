@@ -16,7 +16,7 @@
 ## Add
 
 - :congratulations: 新增[Checklist](https://github.com/dunizb/vue-components/tree/master/src/checklist)组件（2017-11-19）
-- :congratulations: 新增[alert](https://github.com/dunizb/vue-components/tree/master/src/alert)弹出提示组件（2017-11-17）[@dunizb](https://github.com/dunizb)
+- :congratulations: 新增[alert](https://github.com/dunizb/vue-components/tree/master/src/alert)弹出提示组件（2017-11-17）
 
 - 新增[message](https://github.com/dunizb/vue-components/tree/master/src/message)消息提示组件（2017-10-22）
 - 新增[answer](https://github.com/dunizb/vue-components/tree/master/src/answer)答题组件（2017-10-12）
@@ -26,6 +26,7 @@
 ## TO-DO
 
 - [X] datePicker, 日期选择组件
-- [X] 答题组件
+- [X] Answer答题组件
 - [X] alert组件
 - [X] Checklist组件
+- [ ] Answer答题组件2.0
