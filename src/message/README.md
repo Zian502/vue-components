@@ -1,6 +1,7 @@
 # message 消息提示组件
 
 Author：[@dunizb](https://github.com/dunizb)
+在线预览：[https://dunizb.github.io/vue-components-dist/message.html](https://dunizb.github.io/vue-components-dist/message.html)
 
 ## screenshot
 ![screenshot.gifpng](screenshot.gif)

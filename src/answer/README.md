@@ -1,6 +1,6 @@
 # Answer 答题组件
 
-[在线预览](http://h5kjz.chelun.com/2017/public-vue-components/answer.html)
+在线预览：[https://dunizb.github.io/vue-components-dist/answer.html](https://dunizb.github.io/vue-components-dist/answer.html)
 
 Author：[@dunizb](https://github.com/dunizb)
 

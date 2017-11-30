@@ -1,6 +1,7 @@
 # select-modal 模态选择组件
 
 Author：@dunizb
+在线预览：[https://dunizb.github.io/vue-components-dist/selectModal.html](https://dunizb.github.io/vue-components-dist/selectModal.html)
 
 ## screenshot
 ![screenshot.png](screenshot.png)

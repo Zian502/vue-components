@@ -1,6 +1,7 @@
 # Checklist 组件
 
 Author：@dunizb
+在线预览：[https://dunizb.github.io/vue-components-dist/checklist.html](https://dunizb.github.io/vue-components-dist/checklist.html)
 
 ## screenshot
 ![screenshot.gif](screenshot.gif)

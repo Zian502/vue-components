@@ -1,7 +1,7 @@
 # 基于 Vue.js 2.x 的移动端公共业务组件库
 
 ## Update
-- :rose: Checklist升级2.0，[Checklist2.0](https://github.com/dunizb/vue-components/tree/master/src/checklist)组件（2017-11-30）
+:rose: Checklist升级2.0，[Checklist2.0](https://github.com/dunizb/vue-components/tree/master/src/checklist)组件（2017-11-30）
 
 :rose: [answer](https://github.com/dunizb/vue-components/tree/master/src/answer)答题组件（2017-11-17）
 - 小图标改为base64，不需要依赖小图片了

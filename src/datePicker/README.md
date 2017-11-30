@@ -1,6 +1,7 @@
 # datePicker 日期选择组件
 
 Author：[@dunizb](https://github.com/dunizb)
+在线预览：[https://dunizb.github.io/vue-components-dist/datePicker.html](https://dunizb.github.io/vue-components-dist/datePicker.html)
 
 ## screenshot
 ![screenshot.png](screenshot.png)

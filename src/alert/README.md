@@ -1,6 +1,7 @@
 # alert 弹出提示组件
 
 Author：[@dunizb](https://github.com/dunizb)
+在线预览：[https://dunizb.github.io/vue-components-dist/alert.html](https://dunizb.github.io/vue-components-dist/alert.html)
 
 ## screenshot
 | 从底部弹出 | 从中间弹出  |
